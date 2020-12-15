@@ -18,3 +18,8 @@ Málta DZ
 Maldív-szigetek DZ
 Luxemburg DZ
 Bahrein DZ
+Ausztrália NZS
+Belgium NZS
+Dánia NZS
+Svédország NZS
+Egyesült Királyság NZS
